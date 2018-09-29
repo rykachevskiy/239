@@ -23,7 +23,6 @@ build/
 develop-eggs/
 dist/
 eggs/
-data/
 #lib/
 lib64/
 parts/
